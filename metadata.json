@@ -1,0 +1,6 @@
+{
+  "name": "The Screen Off Alert",
+  "description": "Cybersecurity guard that prevents workstation neglect when leaving for packages or breaks.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
